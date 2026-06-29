@@ -1,6 +1,2 @@
 targets:
-  //:bin
-  //:lib
-  //:test
-
-import_depth: 1
+  //...
